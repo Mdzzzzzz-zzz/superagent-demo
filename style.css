@@ -1,0 +1,8 @@
+:root { color-scheme: light dark; }
+body { margin: 0; font: 16px/1.5 system-ui, sans-serif; display: grid; place-items: center; min-height: 100vh; background: #0f1115; color: #e8ecf1; }
+.card { padding: 32px; border: 1px solid #2a2f3a; border-radius: 12px; max-width: 46ch; }
+h1 { margin: 0 0 8px; font-size: 22px; }
+.lede { margin: 0 0 20px; color: #aab3c0; }
+button { padding: 8px 14px; border-radius: 8px; border: 1px solid #3a4250; background: #1a1f28; color: inherit; cursor: pointer; }
+button:hover { background: #222936; }
+.out { min-height: 1.5em; color: #8fe3b0; }

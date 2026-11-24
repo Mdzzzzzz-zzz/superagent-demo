@@ -1,0 +1,8 @@
+{
+  "name": "superagent-demo",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "check": "node --check app.js"
+  }
+}
